@@ -4,7 +4,7 @@
 #
 Name     : mvn-jacoco
 Version  : 0.7.5
-Release  : 1
+Release  : 2
 URL      : https://github.com/jacoco/jacoco/archive/v0.7.5.tar.gz
 Source0  : https://github.com/jacoco/jacoco/archive/v0.7.5.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.agent/0.7.5.201505241946/org.jacoco.agent-0.7.5.201505241946.jar
